@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="grades">23°</string>
+    <string name="city">Mexico City</string>
+    <string name="status">Cloudy</string>
+    <string name="welcome">Welcome</string>
+    <string name="city2">San Francisco</string>
+    <string name="mexid">3530597</string>
+    <string name="sfid">5391959</string>
+</resources>
